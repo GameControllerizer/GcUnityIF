@@ -1,12 +1,16 @@
 # Unity interface for GameControllerizer
 
-This is interface description for Unity InputSystem. 
+Fastest way to build an original game controller for Unity !
 
-By default project, GameControllerizer is recognized as a Joystick.
-Use this sample project, then it is recognized as a Gamepad.
+This is the interface description for Unity InputSystem. With a [GameControllerizer](https://github.com/GameControllerizer/GettingStarted) and this code, you can connect microcontroller (ex. micro:bit, RasPi) or sensors to Unity without coding such as uart, http, bluetooth...
 
-It is useful for building your original game controller.
+---
+
+By the default, [GameControllerizer](https://github.com/GameControllerizer/GettingStarted) is recognized as a simple Joystick.
+With this codes, it is recognized as a Gamepad (1-dpad, 2 -sticks and 12-buttons).
 
 ![image0](./images/image0.png)
 
 ![image1](./images/image1.png)
+
+![image2](./images/image2.png)
